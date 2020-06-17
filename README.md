@@ -1,6 +1,5 @@
-Инструкция по использованию
-1 Запустить start_server_windows.py
-2 Запустить http://localhost:8000/cgi-bin/my.py
+Инструкция по использованию:
+<li> Запустить start_server_windows.py<li>Запустить http://localhost:8000/cgi-bin/my.py
 3 Ввести интересующий текст в поле ввода
 4 Нажать кнопку
 Готово
