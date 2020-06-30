@@ -10,6 +10,6 @@ def findrelations(text):
     for doc in chunked_sentences:
         doc.draw()
 
-text= open("test1.txt", 'r', encoding='utf-8').read() #открыть файл русскоязычный файл
+text= open("test.txt", 'r', encoding='utf-8').read() #открыть файл русскоязычный файл
 #text= open("test2.txt").read() #открыть файл англоязычный файл
 findrelations(text)
